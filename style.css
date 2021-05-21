@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.background{
+    background-image: url("pics/15.png");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.myLogo{
+    width: 50%;
+    
+}
+
+.myNav>{
+    width: 50%;
+    
+}
+
+.myNavBar{
+    display: flex;
+    
+    
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+   
+}
+
+.champs{
+    display: flex;
+}
+.myRdcBar{
+    height: 15%;
+    background-color:red;
+    
+    
+}
+
+.theRedLine{
+    display: flex;
+    background-color:red;
+    height: 10%;
+}
+
+.myLogo>img{
+    height: 100px;
+    width: 100px;
+}
+
+
+
+.theRest{
+    height: 85%;
+    justify-content: center;
+}
+.punch{
+      
+    height: 15%;
+}
+.punch>h1{
+    text-align: center;
+}
+
+.myPics{
+    height: 25%;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    background-color: grey;
+    
+}
+
+.go{
+    height: 30%;
+}
+a{
+    background-color: white;
+}
+ 
+.sect1{
+    display: flex;
+    justify-content: center;
+
+}
+
+.sect2{
+    display: flex;
+    justify-content: center;
+}
+.numbers{
+    height: 300px;
+    background-color: rgb(194, 180, 163);
+    padding-top: 50px;
+}
+
+.numbers h2{
+    font-size: 5em;
+}
+
+.numbers container{
+    justify-content: center;
+}
